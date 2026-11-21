@@ -75,45 +75,19 @@ I'm a developer and Data Science student interested in building modern software,
 
 ---
 
-<!-- ═══════════════════════ TECH ICONS ═══════════════════════ -->
+<!-- ═══════════════════════ LANGUAGES & TOOLS ═══════════════════════ -->
 
-## 🛠️ Languages, Technologies & Tools
+<h2 align="center">📚 Languages & Tools I Have Hands On</h2>
 
-<p align="center">
-  <i>Technologies I use, practice, and explore</i>
-</p>
+<br/>
 
-### 🌐 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,tailwind,react,nextjs,nodejs,express,fastapi,flask" alt="Frontend and backend technologies"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,postgres,mongodb,mysql,docker,linux,bash" alt="Programming languages, databases and developer tools"/>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs" alt="Frontend technologies"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" alt="Backend technologies"/>
-</p>
-
-### 🧠 Data Science & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch" alt="Data Science and Machine Learning technologies"/>
-</p>
-
-### 🗄️ Database & Storage
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Database technologies"/>
-</p>
-
-### 🔧 Tools & Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" alt="Development tools"/>
-</p>
-
----
+<br/>
 
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
