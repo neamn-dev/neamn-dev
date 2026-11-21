@@ -123,13 +123,29 @@ I'm a developer and Data Science student interested in building modern software,
 
 <br/>
 
-## 📈 Contribution Activity
+<!-- ═══════════════════════ CONTRIBUTION ACTIVITY ═══════════════════════ -->
+
+<h2 align="center">📈 My Coding Journey</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=neamn-dev&theme=rose-pine&hide_border=true&area=true" alt="GitHub contribution graph"/>
+  <i>Every commit counts. Some days more than others! ☕</i>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=neamn-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Neamn's%20Coding%20Activity" alt="Neamn's GitHub coding activity"/>
+</p>
+
+<p align="center">
+  <b>💻 Code. Debug. Repeat. ☕</b>
+  <br/>
+  <i>My bugs are temporary. My commits are forever. 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=35&lines=One+more+commit...;Wait%2C+why+is+it+not+working%3F;Fixed+it!+Time+for+another+bug.;Repeat+until+it+works+%F0%9F%98%85" alt="Developer humor animation"/>
+</p>
+
+<br/>
 
 <!-- ═══════════════════════ DEV QUOTE ═══════════════════════ -->
 
