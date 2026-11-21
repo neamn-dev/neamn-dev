@@ -123,24 +123,6 @@ I'm a developer and Data Science student interested in building modern software,
 
 <br/>
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=neamn-dev&show_icons=true&include_all_commits=true&count_private=false&theme=rose_pine&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  &nbsp;
-  <img height="180" src="https://streak-stats.demolab.com/?user=neamn-dev&theme=rose_pine&hide_border=true" alt="Contribution streak"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neamn-dev&layout=compact&theme=rose_pine&hide_border=true&langs_count=8" alt="Most used languages"/>
-</p>
-
----
-
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
-
 ## 📈 Contribution Activity
 
 <p align="center">
