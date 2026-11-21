@@ -1,127 +1,128 @@
 # 👋 Hi, I'm Neamn
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:0077B5&text=NEAMN%20MENKIR&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20%7C%20AI%20%26%20ML&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Animated profile banner"/>
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Developer;Data+Science+Student;Machine+Learning+%26+AI+Enthusiast;Building+Real-World+Solutions;Always+Learning+%E2%80%A2+Always+Building" alt="Animated typing introduction"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Data+Science+Student;Machine+Learning+%26+AI+Enthusiast;Building+Real-World+Solutions" alt="Animated introduction" />
 </p>
 
 <p align="center">
   <a href="https://github.com/neamn-dev">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111111?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-neamn--dev-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/neamn-menkir-aa4403361/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:neamndev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Full-Stack Developer and Data Science student** passionate about building modern web applications and exploring intelligent solutions through data, Artificial Intelligence, and Machine Learning.
+I'm a Full-Stack Developer and Data Science student passionate about building useful digital products, exploring intelligent systems, and turning ideas into real-world solutions.
 
-I enjoy turning ideas into practical projects, solving problems with technology, and continuously developing my engineering skills.
-
-- 🎓 Data Science student at **Debre Berhan University**
-- 🌐 Building full-stack web applications and REST APIs
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 📊 Interested in data analysis, predictive modeling, and intelligent systems
-- 🚀 Focused on continuous learning, practical projects, and real-world problem solving
+- 🎓 Data Science student at Debre Berhan University
+- 💻 Building modern full-stack web applications
+- 📊 Exploring data analysis, visualization, and predictive modeling
+- 🤖 Learning Machine Learning, Deep Learning, and Artificial Intelligence
+- 🌱 Continuously improving through projects, experimentation, and collaboration
+- 🎯 Interested in technology that solves real problems
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🎨 Frontend Development
+### 🌐 Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind&theme=dark" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+  </a>
 </p>
 
 ### ⚙️ Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi&theme=dark" alt="Node.js Express Python Flask FastAPI"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" alt="Node.js, Express, Python, Flask, FastAPI" />
+  </a>
 </p>
 
-### 📊 Data Science & Machine Learning
+### 🧠 Data Science & Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow,pytorch&theme=dark" alt="Python NumPy Pandas TensorFlow PyTorch"/>
-  <br/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="Scikit-learn"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikitlearn,tensorflow,pytorch" alt="Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch" />
+  </a>
 </p>
 
 ### 🗄️ Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="PostgreSQL MongoDB MySQL"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySQL" />
+  </a>
 </p>
 
-### 🧰 Developer Tools & Platforms
+### 🔧 Development Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Git GitHub Docker Linux VS Code"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Git, GitHub, Docker, Linux, VS Code" />
+  </a>
 </p>
 
 ---
 
-## 🚀 What I'm Interested In
+## 📌 Areas of Interest
 
 <table>
   <tr>
     <td width="50%">
       <h3>🌐 Full-Stack Development</h3>
-      <p>Building modern web applications, scalable backends, APIs, and responsive user interfaces.</p>
+      <p>Building responsive web applications, REST APIs, and scalable software solutions.</p>
     </td>
     <td width="50%">
       <h3>🤖 Artificial Intelligence</h3>
-      <p>Exploring AI applications, intelligent automation, LLMs, and AI-powered products.</p>
+      <p>Exploring intelligent applications, automation, LLMs, and AI-powered systems.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📊 Data Science</h3>
-      <p>Extracting insights through data cleaning, exploration, visualization, and statistical analysis.</p>
+      <p>Transforming raw data into insights through analysis, visualization, and statistics.</p>
     </td>
     <td width="50%">
       <h3>🧠 Machine Learning</h3>
-      <p>Developing predictive models, experimenting with algorithms, and evaluating model performance.</p>
+      <p>Developing predictive models, evaluating algorithms, and solving real-world problems.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects & Repositories
 
 <p align="center">
   <a href="https://github.com/neamn-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-View%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore GitHub repositories"/>
+    <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/neamn-dev?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neamn-dev&repo=RankForge&theme=transparent&hide_border=true" alt="RankForge repository card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neamn-dev&repo=RankForge&theme=github_dark&hide_border=true" alt="RankForge project" />
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neamn-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neamn-dev&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top programming languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=neamn-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neamn-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" />
 </p>
 
 ---
@@ -129,57 +130,39 @@ I enjoy turning ideas into practical projects, solving problems with technology,
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=neamn-dev&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=neamn-dev&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 📊 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neamn-dev&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neamn-dev&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/neamn-dev/neamn-dev/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
-</p>
-
-> **Note:** The contribution snake requires a GitHub Actions workflow in your profile repository. Setup instructions are provided below.
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/neamn-dev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/neamn-menkir-aa4403361/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="mailto:neamndev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,100:0077B5" width="100%" alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building.+Learning.+Innovating.;Turning+ideas+into+code+and+code+into+solutions.;Always+growing.+Always+creating." alt="Animated closing message" />
 </p>
 
 <p align="center">
-  <b>BUILD • LEARN • INNOVATE</b>
-  <br/>
-  <i>Turning ideas into code and code into solutions.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0077B5,100:0D1117" width="100%" alt="Footer wave"/>
+  <i>Thanks for visiting my profile! Let's build something meaningful.</i>
 </p>
