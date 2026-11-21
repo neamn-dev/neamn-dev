@@ -96,32 +96,50 @@ I'm a developer and Data Science student interested in building modern software,
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <i>Building practical solutions through software engineering, data science, and AI.</i>
+  <i>A selection of projects where ideas become practical solutions.</i>
 </p>
 
 <br/>
 
-<div align="center">
-
-  <a href="https://github.com/neamn-dev/RankForge">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=neamn-dev&repo=RankForge&theme=rose_pine&hide_border=true" alt="RankForge repository"/>
-  </a>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="100%">
+      <h3>🎬 RankForge</h3>
+      <p>
+        <a href="https://github.com/neamn-dev/RankForge">
+          <img src="https://img.shields.io/badge/PROJECT-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Video_Editing-EA4335?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
+      </p>
+      <p>
+        A video-ranking editor project focused on creating engaging ranking videos through streamlined editing workflows and AI-assisted creative features.
+      </p>
+      <p>
+        <b>Focus:</b> Video Editing · Automation · AI-Assisted Workflows
+      </p>
+      <a href="https://github.com/neamn-dev/RankForge">
+        <b>Explore Repository →</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/neamn-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/neamn-dev?tab=repositories&type=source">
-    <img src="https://img.shields.io/badge/Source_Code-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Browse source code"/>
+    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
   </a>
 </p>
 
 <br/>
+
+<p align="center">
+  <i>More projects, experiments, and ideas are on the way.</i> 🚀
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════ CONTRIBUTION ACTIVITY ═══════════════════════ -->
 
