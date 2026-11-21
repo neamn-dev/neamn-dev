@@ -7,7 +7,7 @@
   <img width="100%" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&color=36BCF7&lines=Hello!+%F0%9F%91%8B;+Neamn+here+%F0%9F%94%A5+!;" alt="Typing Animation" style="width:100%"/>
 </h1>
 
-<h1 align="center">Namaste 🙏 I'm Neamn</h1>
+<h1 align="center">I'm Neamn</h1>
 
 <h4 align="left">
   🌟 Full-Stack Developer & Data Science Student at Debre Berhan University. Passionate about engineering responsive web architectures, crafting scalable backend services, and exploring cutting-edge machine learning and artificial intelligence systems. Turning complex ideas and data into real-world software solutions.
