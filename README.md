@@ -133,7 +133,3 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&color=36BCF7&lines=Thank+You!+%F0%9F%91%8D;+for+visiting+my+profile+%F0%9F%93%B1+!;" alt="Thank You Typing Animation" />
 </h1>
-
-<a href="https://github.com/neamn-dev">
-  <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Sci-Fi/Night.jpg" alt="Night Skyline Banner" style="width:100%; height:auto"/>
-</a>
