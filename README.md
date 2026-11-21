@@ -22,29 +22,24 @@ I build modern web applications and explore intelligent solutions using data, ma
 
 ## 🧰 Technologies & Tools
 
-### Frontend Development
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
 </p>
 
-### Backend Development
+### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi&theme=dark" alt="Node.js, Express, Python, Flask, FastAPI" />
 </p>
 
-### Data Science & Machine Learning
-
+### 🤖 Data Science & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikitlearn,tensorflow,pytorch&theme=dark" alt="Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch" />
 </p>
-### Database & Dev Tools
+
+### 🗄️ Database & Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,linux,vscode" alt="Databases and developer tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,linux,vscode&theme=dark" alt="PostgreSQL, MongoDB, MySQL, Git, GitHub, Docker, Linux, Visual Studio Code" />
 </p>
 
 ---
