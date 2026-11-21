@@ -1,164 +1,108 @@
-# 👋 Hey, I'm Neamn
+# 👋 Hi, I'm Neamn
 
-### Full-Stack Developer | AI & Machine Learning Engineer
+### Full-Stack Developer | Data Science & AI/ML Enthusiast
 
-Building modern web applications, intelligent systems, and data-driven solutions.
+I build modern web applications and explore intelligent solutions using data, machine learning, and AI.
 
----
-
-\<div align="center">
-
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Turning+Ideas+Into+Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=24\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=700\&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Turning+Ideas+Into+Solutions)" />
-
-\</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Data+Science+Student;Machine+Learning+%26+AI+Enthusiast;Building+Real-World+Solutions" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a developer passionate about building useful software and exploring how Artificial Intelligence can solve real-world problems.
-
-- 💻 Building full-stack web applications
-- 🤖 Exploring AI, Machine Learning & Deep Learning
-- 📊 Interested in Data Science and intelligent systems
-- 🌱 Continuously learning, building, and improving
-- 🎯 Focused on writing clean code and solving real problems
+- 🎓 Data Science student at Debre Berhan University
+- 🌐 Full-Stack Developer building web applications
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📊 Exploring data analysis, predictive modeling, and intelligent systems
+- 🚀 Always learning, building projects, and improving my skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technologies & Tools
 
-### Frontend
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" alt="Frontend technologies" />
+</p>
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind)" />
-\</p>
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" alt="Backend technologies" />
+</p>
 
-### Backend
+### Data Science & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch" alt="Data science and machine learning tools" />
+</p>
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi)" />
-\</p>
-
-### AI • Data Science • Machine Learning
-
-\<p>
-\<img src="[https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn)" />
-\</p>
-
-### Database & Tools
-
-\<p>
-\<img src="[https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vscode,linux](https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vscode,linux)" />
-\</p>
-
----
-
-## 🧠 What I'm Working On
-
-- 🌐 Full-stack web development
-- 🤖 Machine Learning & AI applications
-- 📊 Data analysis and predictive modeling
-- ⚡ APIs and intelligent backend systems
-- 🔬 Real-world projects and experimentation
+### Database & Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,linux,vscode" alt="Databases and developer tools" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-\<table>
-\<tr>
-\<td width="50%">
+<p align="center">
+  <a href="https://github.com/neamn-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore my repositories" />
+  </a>
+</p>
 
-### 🧠 AI Projects
-
-Intelligent applications powered by data, machine learning, and automation.
-
-\</td>
-\<td width="50%">
-
-### 🌐 Full-Stack Applications
-
-Modern web platforms with responsive interfaces, APIs, and databases.
-
-\</td>
-\</tr>
-\<tr>
-\<td width="50%">
-
-### 📊 Data Science
-
-Data analysis, visualization, prediction, and extracting useful insights.
-
-\</td>
-\<td width="50%">
-
-### ⚙️ Developer Tools
-
-Tools and applications designed to improve workflows and productivity.
-
-\</td>
-\</tr>
-\</table>
-
-> Explore my repositories to see what I'm building.
+| Area | Focus |
+|---|---|
+| 🌐 Full-Stack Development | Modern web applications, APIs, and responsive interfaces |
+| 🤖 Artificial Intelligence | AI-powered applications and intelligent automation |
+| 📊 Data Science | Data cleaning, visualization, analysis, and predictive modeling |
+| 🧠 Machine Learning | Classification, regression, model evaluation, and experimentation |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-\<div align="center">
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent\&hide_border=true\&title_color=00D9FF\&icon_color=00D9FF\&text_color=FFFFFF)" />
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=transparent\&hide_border=true\&title_color=00D9FF\&text_color=FFFFFF)" />
-
-\</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neamn-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neamn-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most used languages" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-\<div align="center">
-
-\<img src="[https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=transparent\&hide_border=true\&ring=00D9FF\&fire=00D9FF\&currStreakLabel=00D9FF)" />
-
-\</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=neamn-dev&hide_border=true&background=0D1117&ring=00D9FF&fire=FF9D00&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Graph
 
-\<div align="center">
-
-\<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)" alt="Contribution Snake" />
-
-\</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neamn-dev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-\<div align="center">
-
-\<a href="[https://github.com/neamn-dev](https://github.com/neamn-dev)"> \<img src="[https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
-
-\<a href="[https://www.linkedin.com/in/neamn-menkir-aa4403361/](https://www.linkedin.com/in/neamn-menkir-aa4403361/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-\</a>
-
-\<a href="neamndev\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-\</a>
-
-\</div>
+<p align="center">
+  <a href="https://github.com/neamn-dev">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/neamn-menkir-aa4403361/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:neamndev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-\<div align="center">
-
-### 💡 Build. Learn. Innovate.
-
-*Turning ideas into code and code into solutions.*
-
-\</div>
+<p align="center">
+  <b>Building • Learning • Innovating</b><br/>
+  <i>Turning ideas into code and code into solutions.</i>
+</p>
