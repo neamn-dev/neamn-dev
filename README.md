@@ -91,21 +91,37 @@ I'm a developer and Data Science student interested in building modern software,
 
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
-## 🚀 Featured Projects
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/neamn-dev/RankForge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neamn-dev&repo=RankForge&theme=rose_pine&hide_border=true" alt="RankForge project"/>
-  </a>
+  <i>Building practical solutions through software engineering, data science, and AI.</i>
 </p>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/neamn-dev/RankForge">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=neamn-dev&repo=RankForge&theme=rose_pine&hide_border=true" alt="RankForge repository"/>
+  </a>
+
+</div>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/neamn-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+    <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/neamn-dev?tab=repositories&type=source">
+    <img src="https://img.shields.io/badge/Source_Code-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Browse source code"/>
   </a>
 </p>
 
----
+<br/>
 
 <!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
 
