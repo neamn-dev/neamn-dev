@@ -150,7 +150,7 @@ I'm a developer and Data Science student interested in building modern software,
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=neamn-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Neamn's%20Coding%20Activity" alt="Neamn's GitHub coding activity"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=neamn-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Coding%20Activity" alt="Neamn's GitHub coding activity"/>
 </p>
 
 <p align="center">
